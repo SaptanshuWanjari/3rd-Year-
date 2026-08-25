@@ -1,0 +1,12 @@
+ID,Book_Title,clean book title,Author,Genre,Standardized genre,Published_Year,Copies_Available,Shelf_Code,Book_Status,standardized book status
+B001,  The Alchemist,The Alchemist,Paulo Coelho,Fiction,FICTION,1988,4,A-01,Available,AVAILABLE
+B002,Atomic Habits ,Atomic Habits,James Clear,Self Help,SELF HELP,2018,3,A-02,available,AVAILABLE
+B003,The Hobbit,The Hobbit,J.R.R. Tolkien,fiction,FICTION,1937,2,A-03,Issued,ISSUED
+B004,Clean Code,Clean Code,Robert C. Martin,Programming,PROGRAMMING,N/A,5,B-01,Available,AVAILABLE
+B005,Python Crash Course,Python Crash Course,Eric Matthes ,Programming ,PROGRAMMING,2019,4,B-02,AVAILABLE,AVAILABLE
+B006,Sapiens,Sapiens,Yuval Noah Harari,History,HISTORY,2011,0,C-01,Issued,ISSUED
+B007,Ikigai,Ikigai,Héctor García,Self-help,SELF-HELP,2016,3,C-01,Available,AVAILABLE
+B008,Rich Dad Poor Dad,Rich Dad Poor Dad,Robert Kiyosaki,Finance,FINANCE,1997,-1,C-03,Available,AVAILABLE
+B009,The Psychology of Money,The Psychology of Money,Morgan Housel,Finance,FINANCE,2020,2,N/A,Issued,ISSUED
+B010,Deep Work,Deep Work,Cal Newport,Self Help,SELF HELP,2016,2,D-01,available,AVAILABLE
+B011,  Think and Grow Rich,Think and Grow Rich,Napoleon Hill,Personal Development,PERSONAL DEVELOPMENT,1937,1,D-02,Available,AVAILABLE
