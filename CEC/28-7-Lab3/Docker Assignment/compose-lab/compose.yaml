@@ -1,0 +1,24 @@
+services:
+  web:
+    build: .
+    container_name: compose-web
+    ports:
+      - "5001:5000"
+    depends_on:
+      - redis
+    networks:
+      - compose-network
+
+  redis:
+    image: redis:alpine
+    container_name: compose-redis
+    volumes:
+      - redis-data:/data
+    networks:
+      - compose-network
+
+volumes:
+  redis-data:
+
+networks:
+  compose-network:
